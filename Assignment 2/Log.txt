@@ -1,0 +1,173 @@
+---------- Student Management System ----------
+
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 1
+
+Enter student name: Rudy
+
+Enter student age: 21
+
+Enter student gender: M
+
+Enter student address: Behala
+
+Student added successfully
+
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 1
+
+Enter student name: Rudra
+
+Enter student age: 21
+
+Enter student gender: M
+
+Enter student address: Behala
+
+Student added successfully
+
+Enter Y/N to continue/exit: y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 2
+Student Database:
+
+Name     |       Age     |       Gender          |       Address
+
+Rudy            21              M               Behala
+
+Rudra           21              M               Behala
+
+
+# of students = 2
+
+Enter Y/N to continue/exit: y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 3
+
+Enter student name for deletion: rudra
+
+
+Student record deleted successfully
+
+Enter Y/N to continue/exit: y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 4
+
+Enter department name: CSE
+
+Enter department HOD: XYZ
+
+Department added successfully
+
+Enter Y/N to continue/exit: y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 4
+
+Enter department name: IT
+
+Enter department HOD: ABC
+
+Department added successfully
+
+Enter Y/N to continue/exit: y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 5
+
+Department List:
+
+Dept     |       HOD
+
+CSE             XYZ
+
+IT              ABC
+
+
+# Departments = 2
+
+Enter Y/N to continue/exit: y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 6
+
+Enter the department name for deletion: IT
+
+
+Department removed successfully
+
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 2
+Student Database:
+
+Name     |       Age     |       Gender          |       Address
+
+Rudy            21              M               Behala
+
+
+# of students = 1
+
+Enter Y/N to continue/exit: N
+Thank You for using Student Management System
